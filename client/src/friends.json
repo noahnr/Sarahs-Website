@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Colorful Beaded Earrings",
+    "image": "https://i.etsystatic.com/25292405/d/il/ad2834/2630039041/il_340x270.2630039041_rmd5.jpg?version=0",
+    "price": "20"
+  },
+  {
+    "id": 2,
+    "name": "Frog Earrings",
+    "image": "https://i.etsystatic.com/25292405/d/il/3d81cb/2582379166/il_340x270.2582379166_a2yu.jpg?version=0",
+    "price": "50"
+  },
+  {
+    "id": 3,
+    "name": "Passport Earrings",
+    "image": "https://i.etsystatic.com/25292405/d/il/0a83cd/2582383990/il_340x270.2582383990_7tal.jpg?version=0",
+    "price": "18"
+  },
+  {
+    "id": 4,
+    "name": "Utensil Earrings",
+    "image": "https://i.etsystatic.com/25292405/d/il/0d4b6e/2630054657/il_340x270.2630054657_nr0w.jpg?version=0",
+    "price": "15"
+  },
+  {
+    "id": 5,
+    "name": "Shoe Earrings",
+    "image": "https://i.etsystatic.com/25292405/d/il/87ad1d/2646086723/il_340x270.2646086723_eyaa.jpg?version=0",
+    "price": "10"
+  },
+  {
+    "id": 6,
+    "name": "Lavender Bottle Earrings",
+    "image": "https://i.etsystatic.com/25292405/d/il/c81dc0/2644465467/il_340x270.2644465467_8ybw.jpg?version=0",
+    "price": "10"
+  },
+  {
+    "id": 8,
+    "name": "Leaf Earrings",
+    "image": "https://i.etsystatic.com/25292405/d/il/a04c23/2630060825/il_340x270.2630060825_s88t.jpg?version=0",
+    "price": "18"
+  },
+  {
+    "id": 7,
+    "name": "",
+    "image": "",
+    "price": "20"
+  }
+
+]
+
+
+

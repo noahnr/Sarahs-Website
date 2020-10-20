@@ -1,0 +1,5 @@
+.jumbotron {
+    width: 100%;
+    height: Auto;
+    background-image: radial-gradient(orange 5%, blue 10%, yellow 15%, violet 60%);
+}
