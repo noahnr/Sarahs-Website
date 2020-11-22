@@ -15,12 +15,16 @@ function FriendCard(props) {
           <li>
             <strong>Price:</strong> {props.price}
           </li>
+          <li>
+
+          <a href="https://www.etsy.com/shop/PityPicnic?ele=shop_open" class="button">Click Here</a>          
+          </li>
          
         </ul>
       </div>
-      <span onClick={() => props.removeFriend(props.id)} className="remove">
+      {/* <span onClick={() => props.removeFriend(props.id)} className="remove">
         𝘅
-      </span>
+      </span> */}
     </div>
   );
 }
